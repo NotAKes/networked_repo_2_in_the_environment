@@ -1,1 +1,16 @@
 текущий main и удалённый demo ничем не отличаются
+
+10 коммитов(11 с этим)
+
+init - MobDev-Hobby
+heat added - MobDev-Hobby
+boots - MobDev-Hobby
+README added - MobDev-Hobby
+dots - MobDev-Hobby
+fix readme - MobDev-Hobby
+comment1 - NeAKes
+comment2 - NeAKes
+comment4 - NeAKes
+comment5 - NeAKes
+comment6 - NeAKes
+
